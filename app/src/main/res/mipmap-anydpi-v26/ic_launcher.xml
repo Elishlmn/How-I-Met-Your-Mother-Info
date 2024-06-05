@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/howimetyourmotherposter" />
+    <foreground android:drawable="@drawable/howimetyourmotherposter" />
+    <monochrome android:drawable="@drawable/howimetyourmotherposter" />
+</adaptive-icon>
